@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "FallingCave5354",
+  "repo": "container-dc41g1q",
+  "name": "FallingCave5354",
+  "email": "proinsection29@gmail.com",
+}
